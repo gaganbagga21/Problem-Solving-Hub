@@ -23,6 +23,7 @@ A centralized repository tracking my competitive programming journey, data struc
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
