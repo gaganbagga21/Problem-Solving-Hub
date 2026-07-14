@@ -19,6 +19,7 @@ A centralized repository tracking my competitive programming journey, data struc
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0412-fizz-buzz) |
+| [1108-defanging-an-ip-address](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/1108-defanging-an-ip-address) |
 ## Simulation
 |  |
 | ------- |
