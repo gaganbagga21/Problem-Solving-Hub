@@ -22,6 +22,7 @@ A centralized repository tracking my competitive programming journey, data struc
 | [0125-valid-palindrome](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/1108-defanging-an-ip-address) |
 ## Simulation
@@ -51,6 +52,7 @@ A centralized repository tracking my competitive programming journey, data struc
 | ------- |
 | [0001-two-sum](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -61,6 +63,7 @@ A centralized repository tracking my competitive programming journey, data struc
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
@@ -117,4 +120,8 @@ A centralized repository tracking my competitive programming journey, data struc
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0349-intersection-of-two-arrays) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
