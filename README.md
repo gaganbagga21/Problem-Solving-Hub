@@ -32,6 +32,7 @@ A centralized repository tracking my competitive programming journey, data struc
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0054-spiral-matrix) |
@@ -46,6 +47,7 @@ A centralized repository tracking my competitive programming journey, data struc
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
