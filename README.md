@@ -42,6 +42,7 @@ A centralized repository tracking my competitive programming journey, data struc
 | [0049-group-anagrams](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -67,6 +68,7 @@ A centralized repository tracking my competitive programming journey, data struc
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0905-sort-array-by-parity) |
@@ -107,6 +109,7 @@ A centralized repository tracking my competitive programming journey, data struc
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0151-reverse-words-in-a-string) |
