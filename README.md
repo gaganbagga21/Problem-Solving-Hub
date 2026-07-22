@@ -49,6 +49,7 @@ A centralized repository tracking my competitive programming journey, data struc
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0435-non-overlapping-intervals) |
 | [0905-sort-array-by-parity](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -73,6 +74,7 @@ A centralized repository tracking my competitive programming journey, data struc
 | [0088-merge-sorted-array](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0435-non-overlapping-intervals) |
 | [0905-sort-array-by-parity](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -87,6 +89,7 @@ A centralized repository tracking my competitive programming journey, data struc
 | [0053-maximum-subarray](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -128,6 +131,7 @@ A centralized repository tracking my competitive programming journey, data struc
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0435-non-overlapping-intervals) |
 ## Matrix
 |  |
 | ------- |
