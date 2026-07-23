@@ -56,6 +56,7 @@ A centralized repository tracking my competitive programming journey, data struc
 | [0435-non-overlapping-intervals](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -155,6 +156,7 @@ A centralized repository tracking my competitive programming journey, data struc
 | [0349-intersection-of-two-arrays](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0875-koko-eating-bananas) |
 ## Queue
 |  |
 | ------- |
