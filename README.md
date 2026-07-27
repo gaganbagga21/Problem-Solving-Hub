@@ -173,5 +173,6 @@ A centralized repository tracking my competitive programming journey, data struc
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
