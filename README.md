@@ -132,6 +132,7 @@ A centralized repository tracking my competitive programming journey, data struc
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
@@ -169,4 +170,8 @@ A centralized repository tracking my competitive programming journey, data struc
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
