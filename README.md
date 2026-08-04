@@ -173,6 +173,7 @@ A centralized repository tracking my competitive programming journey, data struc
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
@@ -191,4 +192,12 @@ A centralized repository tracking my competitive programming journey, data struc
 | [0206-reverse-linked-list](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
