@@ -59,6 +59,7 @@ A centralized repository tracking my competitive programming journey, data struc
 | [0217-contains-duplicate](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0435-non-overlapping-intervals) |
+| [0496-next-greater-element-i](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0875-koko-eating-bananas) |
@@ -79,6 +80,7 @@ A centralized repository tracking my competitive programming journey, data struc
 | [0242-valid-anagram](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
@@ -201,6 +203,7 @@ A centralized repository tracking my competitive programming journey, data struc
 | ------- |
 | [0020-valid-parentheses](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
@@ -210,4 +213,8 @@ A centralized repository tracking my competitive programming journey, data struc
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
