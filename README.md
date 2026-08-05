@@ -60,6 +60,7 @@ A centralized repository tracking my competitive programming journey, data struc
 | [0349-intersection-of-two-arrays](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0875-koko-eating-bananas) |
@@ -204,6 +205,7 @@ A centralized repository tracking my competitive programming journey, data struc
 | [0020-valid-parentheses](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
@@ -217,4 +219,5 @@ A centralized repository tracking my competitive programming journey, data struc
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/gaganbagga21/Problem-Solving-Hub/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
